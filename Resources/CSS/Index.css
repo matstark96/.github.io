@@ -13,7 +13,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("/Users/matstark/Documents/XCode/Project: Dasmoto's Arts & Crafts/Resources/Images/Pattern.jpeg") ;
+    background-image: url("./Pattern.jpeg") ;
     margin: 50px 10px;
 }
 
